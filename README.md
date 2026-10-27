@@ -1,1 +1,1 @@
-# peerlink its a peer to peer information exhcange and tutor finder 
+# peerlink its a peer to peer information exchange and tutor finder 
